@@ -1,4 +1,4 @@
 # FlappyBird
 # Installing code
-@ nsononsnso
-@ dccd
+[pip install random](url)
+[pip install sys](url)
