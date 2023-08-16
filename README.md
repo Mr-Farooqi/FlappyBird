@@ -1,5 +1,6 @@
 # FlappyBird
 # Installing code
-#pip install random
+pip install random<br>
+
 #pip install sys
 #pip install pygame
